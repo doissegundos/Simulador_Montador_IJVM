@@ -11,7 +11,7 @@ A IJVM desenvolvido por Andrew S. Tanenbaum é um exemplo de microarquitetura, q
 
 Sabe-se que IJVM é uma arquitetura de conjunto de instruções criada por Andrew Tanenbaum para sua arquitetura MIC-1. Por conseguinte, praticamente todas as linguagens de programação suportam o conceito de procedimentos, que tem variáveis locais, tais variáveis podem ser acessadas dentro dos procedimentos, mas deixam de ser acessíveis assim que o procedimento é devolvido. Dessa forma, é necessário um lugar da memória para manter essas variáveis. Assim, uma área na memória, denominada pilha, é reservada para o armazenamento de variáveis locais de um procedimento. Ademais, temse o conjunto de instrução da IJVM. Dessa forma, a tabela abaixo ilustra tais instruções, nas quais a primeira coluna dá a codificação hexadecimal da instrução, a segunda fornece o mnemônico em linguagem de montagem, enquanto a terceira fornece uma breve descrição do seu efeito.
 
-<div align=”center”><img src="imagens/1.png"  /> </div>
+<img src="imagens/1.png" width="600"/>
  
   
 O caminho de dados é a parte do processador que contém a ULA e todas as suas entradas e saídas. A figura 02 apresenta uma simplificação do modelo de arquitetura MIC1 e tem como principal característica uma das entradas da ULA (barramento A) sempre relacionado ao registrador “H”. Por outro lado, o barramento B pode receber dados de quaisquer outros  registradores.
