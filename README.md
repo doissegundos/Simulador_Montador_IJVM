@@ -29,7 +29,7 @@ A interface criada no QT design para o montador e simulador IJVM é a mostrada n
  <img src="imagens/3.png"  />
  
 Nesse simulador IJVM, utilizou-se alguns exemplos de modo a verificar o funcionamento dessa interface, como mostra-se na figura a seguir:
- <img src="imagens/5.png"  />
+ <img src="imagens/4.png"  />
 
 
 
