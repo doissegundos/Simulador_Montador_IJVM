@@ -27,11 +27,11 @@ mesmo a interface gráfica sendo feita em C++, é possível manipular seus atrib
 
 A interface criada no QT design para o montador e simulador IJVM é a mostrada na figura abaixo:
 
- <img src="imagens/3.png" width="400" />
+ <img src="imagens/3.png" width="600" />
  
 Nesse simulador IJVM, utilizou-se alguns exemplos de modo a verificar o funcionamento dessa interface, como mostra-se na figura a seguir:
 
- <img src="imagens/4.png" width="400" align />
+ <img src="imagens/4.png" width="600" align />
 
 
 
